@@ -72,6 +72,7 @@ Once the contract is deployed, you can interact with it by calling the 'burn' an
 ## Authors
 
 Hetashi Guru Singh Pal 
+
 [@gurusinghpal](https://www.linkedin.com/in/guru-singh-pal-99a305254/)
 
 ## License
