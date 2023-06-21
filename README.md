@@ -1,6 +1,6 @@
-# EthBeg_Assessment
+# MyToken
 
-This solidity program is a program that let's you create your very own token! A basic ERC-20 compatible token contract implemented in Solidity
+This solidity program is a program that let's you create your very own token! A basic ERC-20 compatible token contract implemented in Solidity.
 
 ## Description
 
@@ -62,9 +62,9 @@ contract MyToken {
 }
 
 ```
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile myToken.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile MyToken.sol" button.
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "myToken" contract from the dropdown menu, and then click on the "Deploy" button.
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
 Once the contract is deployed, you can interact with it by calling the 'burn' and 'mint'  functions. 
 
