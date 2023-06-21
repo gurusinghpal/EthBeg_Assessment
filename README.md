@@ -10,8 +10,9 @@ This Solidity program defines a simple token contract called MyToken. It allows 
 
 To interact with the token contract, you will need:
 
-  *- An Ethereum development environment (e.g., Remix, Truffle, or Hardhat).
-  *- An Ethereum account with a compatible wallet (e.g., MetaMask) for testing and deploying the contract.
+  - An Ethereum development environment (e.g., Remix, Truffle, or Hardhat).
+  
+  - An Ethereum account with a compatible wallet (e.g., MetaMask) for testing and deploying the contract.
 
 ## Getting Started
 
